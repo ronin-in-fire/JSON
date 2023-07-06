@@ -1,0 +1,9 @@
+{
+	"name_surname": "Rustam Aflyatunov",
+	"age": 26,
+	"pets": {
+		"Dog": "Cesar",
+		"Dog": "Corney"
+		},
+	"salary": "$5000"
+}
